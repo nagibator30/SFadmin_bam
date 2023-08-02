@@ -1,0 +1,4 @@
+ansible/hosts
+ansible/roles
+ansible/playbooks/*
+!ansible/playbooks/add_user.yml
