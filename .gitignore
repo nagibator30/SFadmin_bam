@@ -1,0 +1,2 @@
+ansible/hosts
+ansible/playbooks/add_user.yml
