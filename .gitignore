@@ -2,3 +2,4 @@ ansible/hosts
 ansible/roles
 ansible/playbooks/*
 !ansible/playbooks/add_user.yml
+ansible/common/files/id_rsa.pub
